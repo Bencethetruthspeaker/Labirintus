@@ -1,0 +1,5 @@
+WALL = "#"
+PATH = " "
+START = "S"
+END = "E"
+SOLUTION = "."
